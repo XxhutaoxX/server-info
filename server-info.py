@@ -7,7 +7,7 @@ PLUGIN_METADATA = {
     'version': '1.0.0',
     'name': 'Server Info Plugin',
     'description': 'A plugin to display server resource information',
-    'author': 'YourName'
+    'author': '胡桃'
 }
 
 class ServerInfoPlugin:
