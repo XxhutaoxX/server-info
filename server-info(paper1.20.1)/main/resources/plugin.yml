@@ -1,0 +1,9 @@
+name: ServerInfo
+version: 1.0
+main: hutao.serverinfo.ServerInfoPlugin
+description: A plugin to display server CPU, memory, network, and disk information.
+author: 胡桃
+commands:
+  info:
+    description: Display server info
+    usage: /<command>
